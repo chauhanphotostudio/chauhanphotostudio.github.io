@@ -2,6 +2,8 @@
 
 Website for Chauhan Photo Studio, Rohru, Himachal Pradesh.
 
+Live site: <https://chauhanphotostudio.github.io/>
+
 ## Local preview
 
 ```sh
